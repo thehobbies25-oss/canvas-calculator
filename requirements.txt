@@ -1,0 +1,3 @@
+## 📦 requirements.txt
+Since Tkinter is part of Python’s standard library, you don’t need extra packages. But for completeness:
+
